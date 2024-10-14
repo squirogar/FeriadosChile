@@ -1,21 +1,21 @@
 fecha,motivo,tipo
-01-1-2024,Año Nuevo,Civil
-29-3-2024,Viernes Santo,Religioso
-30-3-2024,Sábado Santo,Religioso
-01-5-2024,Día Nacional del Trabajo,Civil
-21-5-2024,Día de las Glorias Navales,Civil
-09-6-2024,Elecciones Primarias Alcaldes y Gobernadores,Civil
-20-6-2024,Día Nacional de los Pueblos Indígenas,Civil
-29-6-2024,San Pedro y San Pablo,Religioso
-16-7-2024,Día de la Virgen del Carmen,Religioso
-15-8-2024,Asunción de la Virgen,Religioso
-18-9-2024,Independencia Nacional,Civil
-19-9-2024,Día de las Glorias del Ejército,Civil
-20-9-2024,Feriado Adicional Fiestas Patrias,Civil
-12-10-2024,Encuentro de Dos Mundos,Civil
-27-10-2024,"Elecciones Municipales, Consejeros Regionales y Gobernadores Regionales",Civil
-31-10-2024,Día de las Iglesias Evangélicas yProtestantes,Religioso
-01-11-2024,Día de Todos los Santos,Religioso
-24-11-2024,Segunda Vuelta Elección Gobernadores Regionales,Civil
-08-12-2024,Inmaculada Concepción,Religioso
-25-12-2024,Navidad,Religioso
+2024-1-01,Año Nuevo,Civil
+2024-3-29,Viernes Santo,Religioso
+2024-3-30,Sábado Santo,Religioso
+2024-5-01,Día Nacional del Trabajo,Civil
+2024-5-21,Día de las Glorias Navales,Civil
+2024-6-09,Elecciones Primarias Alcaldes y Gobernadores,Civil
+2024-6-20,Día Nacional de los Pueblos Indígenas,Civil
+2024-6-29,San Pedro y San Pablo,Religioso
+2024-7-16,Día de la Virgen del Carmen,Religioso
+2024-8-15,Asunción de la Virgen,Religioso
+2024-9-18,Independencia Nacional,Civil
+2024-9-19,Día de las Glorias del Ejército,Civil
+2024-9-20,Feriado Adicional Fiestas Patrias,Civil
+2024-10-12,Encuentro de Dos Mundos,Civil
+2024-10-27,"Elecciones Municipales, Consejeros Regionales y Gobernadores Regionales",Civil
+2024-10-31,Día de las Iglesias Evangélicas y Protestantes,Religioso
+2024-11-01,Día de Todos los Santos,Religioso
+2024-11-24,Segunda Vuelta Elección Gobernadores Regionales,Civil
+2024-12-08,Inmaculada Concepción,Religioso
+2024-12-25,Navidad,Religioso
